@@ -46,7 +46,7 @@ def print_banners():
     """
     print(f'{G}{banner}{W}\n')
     print(f'{G}[+] {Y}Version      : {W}{VERSION}')
-    print(f'{G}[+] {Y}Created By   : {W}Spyboy')
+    print(f'{G}[+] {Y}Created By   : {W} Anonymous NJR')
     print(f'{G} ╰➤ {Y}Twitter      : {W}{Twitter_url}')
     print(f'{G} ╰➤ {Y}Discord      : {W}{discord}')
     print(f'{G} ╰➤ {Y}Website      : {W}{website}')
