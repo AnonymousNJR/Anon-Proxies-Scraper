@@ -13,7 +13,7 @@ Twitter_url = 'https://x.com/Anonymous_NJR?s=09'
 discord = 'https://anonymous_njr/Discord'
 website = 'https://anonymousnjr.godaddysites.com'
 blog = 'https://sparkleskills.blogspot.com/'
-github = 'https://github.com/AnonymousNJR/Anon-Proxies-Scraper-.git'
+github = 'https://github.com/AnonymousNJR/Anon-Proxies-Scraper.git'
 
 VERSION = '0.0.3'
 
