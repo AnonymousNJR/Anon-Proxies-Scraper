@@ -240,7 +240,7 @@ def main():
     print(f"\n{Fore.YELLOW}[+]{Fore.GREEN} Time taken: {Fore.YELLOW}{elapsed_time} seconds")
 
     current_directory = os.getcwd()
-    save_path = os.path.join(current_directory, "proxies.txt")
+    save_path = os.path.join(current_directory, "Anonymous.txt")
     print(f"\n{Fore.YELLOW}[+]{Fore.RED} List of Working Proxies saved at: {Fore.GREEN}{save_path}{Style.RESET_ALL}")
 
 if __name__ == "__main__":
