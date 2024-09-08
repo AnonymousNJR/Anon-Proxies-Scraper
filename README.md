@@ -11,7 +11,7 @@ pkg install git -y
 
 pkg install pip 
 
-git clone git clone https://github.com/Anonymous/Anon-Proxies-Scraper.git
+git clone git https://github.com/Anonymous/Anon-Proxies-Scraper.git
 
 cd Anon-Proxies-Scraper
 
